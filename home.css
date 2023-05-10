@@ -1,0 +1,12 @@
+header{
+    display: flex;
+}
+#nav{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right: 500px;
+    margin-bottom: 500px;
+    background-color: red;
+}
