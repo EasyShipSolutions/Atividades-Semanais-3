@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;500&display=swap');
+#ultimasnoticias{
+    margin-top: 0px;
+}
+.conteiner4{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    
+}
+.conteiner4 h5{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 18px;
+    color: #217BF4;
+}
+.conteiner4 h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700px;
+    font-size: 36px;
+    line-height: 36px;
+    margin-top: 5px;
+    color: #0A093D;
+}
+.conteiner5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
