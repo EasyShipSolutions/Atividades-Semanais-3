@@ -1,0 +1,131 @@
+* {
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container.pai{
+    position: absolute;
+    width: 340px;
+    height: 330px;
+}
+.txt-azul {
+    position: absolute;
+    width: 200px;
+    height: 18px;
+    left: 135px;
+    top: 96.53px;
+
+    color: #217BF4;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.txt-negrito {
+    position: absolute;
+    width: 406px;
+    height: 96px;
+    left: 135px;
+    top: 124.53px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.txt-3 {
+    position: absolute;
+    width: 480px;
+    height: 84px;
+    left: 135px;
+    top: 236.53px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.groups {
+    position: absolute;
+    width: 63px;
+    height: 18px;
+    left: 165px;
+    top: 380px;
+
+    font-family: 'Inter', sans-serif;
+    font-size: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.messages {
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 165px;
+    top: 420px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.share {
+    position: absolute;
+    width: 50px;
+    height: 18px;
+    left: 165px;
+    top: 460px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.img1 img {
+    border-radius: 10px;
+    width: 267px;
+    height: 252px;
+    position: absolute;
+    width: 281px;
+    height: 422px;
+    left: 710px;
+    top: 64px;
+}
+
+.img2 img {
+    border-radius: 10px;
+    width: 267px;
+    height: 252px;
+    position: absolute;
+    width: 267px;
+    height: 255px;
+    left: 1020px;
+    top: 28px;
+}
+
+.img3 img {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 267px;
+    height: 252px;
+    position: absolute;
+    height: 255px;
+    left: 1020px;
+    top: 295px;
+}
