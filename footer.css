@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 40px;
+    align-items:center;
+    margin-top:78px;  
+  }
+
+footer{
+    width: 1440;
+    height: 485px;
+    background-color: #2B2B39;
+}
+ 
+.Home{
+    color: white;
+    padding-left: 90px;
+}
+
+.Home h3{
+   font-family: 'Inter', sans-serif;
+   font-weight: 500;
+   font-size: 20px;
+   padding-bottom: 22px;
+}
+
+.Home p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 22px;
+}
+
+.Resources{
+    color: white;
+    margin-left: -60px;
+}
+
+.Resources h3{
+   font-family: 'Inter', sans-serif;
+   font-weight: 500;
+   font-size: 20px;
+   padding-bottom: 22px;
+}
+
+.Resources p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 22px;
+}
+
+.Community{
+    color: white;
+    margin-left: -60px;
+}
+
+.Community h3{
+   font-family: 'Inter', sans-serif;
+   font-weight: 500;
+   font-size: 20px;
+   padding-bottom: 22px;
+}
+
+.Community p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 22px;
+}
+
+.links{
+    color: white;
+    margin-left: -50px
+}
+
+.links h3{
+   font-family: 'Inter', sans-serif;
+   font-weight: 500;
+   font-size: 20px;
+   padding-bottom: 22px;
+}
+
+.links p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 22px;
+}
+
+.outros{
+    color: white;
+    margin-top: -80px;
+
+    
+
+}
+
+.outros h3{
+   font-family: 'Inter', sans-serif;
+   font-weight: 500;
+   font-size: 20px;
+   padding-bottom: 18px;
+  
+}
+
+.outros p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 22px;
+}
+
+.rec{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 339px;
+   height: 48px;
+   border: 2px solid white;
+   border-radius: 12px;
+   margin-left: 1201px;
+    margin-top: -50px;
+   
+}
+
+.rec p:nth-child(1){
+    color: #717179;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    padding-top: 16px;
+    padding-left: 24px;
+
+}
+
+.rec p:nth-child(2){
+    width: 124px;
+    height: 46px;
+    color: #2B2B39;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: white;
+    border-radius: 12px;
+    padding-right: 90px;
+    padding-top: 14px;
+    padding-left: 24px;
+}
+
+.rec2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
